@@ -18,7 +18,7 @@ Se seu time NUNCA fez remoto e fará agora em regime de urgência, se prepare, p
 
 ### 2. Reuniões diárias
 
-Agende um horário para conversar com todo time e evitar ficar interrompendo eles a todo momento para saber o que estão fazendo. Esse momento cada pessoa deve falar sobre o que está fazendo e/ou qual atividade pretende fazer ao longo do dia.
+Agende um horário para conversar com todo time e evitar ficar interrompendo eles a todo momento para saber o que estão fazendo. Nesse momento cada pessoa deve falar sobre o que está fazendo e/ou qual atividade pretende fazer ao longo do dia.
 
 Perceba que nem todo mundo conseguirá ser assertivo aqui de primeira. Isso leva tempo.
 
@@ -28,7 +28,7 @@ Esse ambiente precisa ser seguro! A pessoa precisa estar confortável para compa
 
 ### 3. Esteja disponível para reunião individual
 
-Informe a seus funcionários que você está disponível pra conversar individualmente, mas solicite cautela nesse convite, pois todos do time precisa fazer isso. Se uma pessoa monopolizar seu tempo, outras não poderão ter a mesma oportunidade.
+Informe a seus funcionários que você está disponível pra conversar individualmente, mas solicite cautela nesse convite, pois todos do time precisam fazer isso. Se uma pessoa monopolizar seu tempo, outras não poderão ter a mesma oportunidade.
 
 Use serviços como [esse](https://calendly.com/pt), que oferecem slots de tempo na sua agenda para marcação de reuniões. Atente para deixar sua agenda atualizada, ou seja, se tiver ocupado naquele horário, coloque na sua agenda, caso contrário o serviço poderá agendar em um momento que você não tem disponível.
 
@@ -58,7 +58,7 @@ Se for MUITO urgente, ligue para pessoa.
 
 A ligação ao telefone deve ser último recurso. Se você usar muito isso a pessoa poderá demorar a lhe atender e pode ser justamente em um momento que você precisava da urgência.
 
-Lembre que cada ligação sua causará um grande impacto na atenção daquela pessoa, que já está sofrendo em trabalhar de cada pela primeira vez e tendo que lidar com toda distração que uma casa ainda não preparada para remoto oferece.
+Lembre que cada ligação sua causará um grande impacto na atenção daquela pessoa, que já está sofrendo em trabalhar de casa pela primeira vez e tendo que lidar com toda distração que uma casa ainda não preparada para remoto oferece.
 
 ### 7. Valide se cada pessoa tem tudo que precisa
 
